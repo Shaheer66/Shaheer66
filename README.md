@@ -1,28 +1,42 @@
 # Hi, I'm Shaheer Ahmad 👋 
 
-**Associate Data Scientist @[Brickclay](https://www.brickclay.com) | X-Zong | FAST NUCES Alumnus**
+**Associate Data Scientist @Brickclay | FAST NUCES Alumnus**
 
-I am an AI Engineer specializing in architecting end-to-end intelligent systems across Logistics, Healthcare, and Enterprise Data. My work involves building **Multimodal RAG pipelines**, **Autonomous Voice Agents**, and robust data engineering workflows.
+I architect end-to-end intelligent systems, bridging the gap between raw data engineering and advanced Agentic AI. My focus is on **Multimodal RAG**, **Autonomous Voice Agents**, and **Predictive Modeling**.
 
 ---
-
-### 🚀 Current Impact & Skills
-*   **Agentic AI:** Developing **Voice Agents** for automated sales and inbound query ticketing systems.
-*   **Predictive Analytics:** Engineered an end-to-end **Customer Churn Prediction** system with 90% accuracy, driving significant cost savings through proactive retention strategies.
-*   **Generative AI:** Building internal creative products, including **Text-to-SVG** and **Image Enhancer** tools.
-*   **LLMs:** Expert in fine-tuning models (like BioGPT using LoRA) and building natural language interfaces for data analytics (Text-to-SQL).
-
-### 📊 Professional Experience & Projects
-*   **Associate Data Scientist @ Brickclay:** Focused on logistics intelligence, resource optimization, and high-impact AI solutions.
-*   **Engineering Intern @ Zong CMPAK:** Developed robust ETL pipelines to process and normalize massive raw **Call Detail Record (CDR)** datasets, creating foundational data layers for strategic marketing analysis.
-*   **Data Science Intern @ BehinDev:** Engineered sales forecasting models for e-commerce, improving inventory planning efficiency by 38%.
 
 ### 🛠️ Tech Stack & Tools
-*   **AI/ML:** PyTorch, scikit-learn, XGBoost, Transformers, LangGraph, Prompt Engineering.
-*   **Cloud & MLOps:** Azure (ML Studio, DevOps), AWS SageMaker, Docker, FastAPI, Flask, CI/CD.
-*   **Data & DBs:** SQL Server, MongoDB, Huawei GaussDB, FAISS (Vector DBs), ETL pipelines, PowerBI.
+
+![Python](https://img.shields.io)
+![PyTorch](https://img.shields.io)
+![FastAPI](https://img.shields.io)
+![Azure](https://img.shields.io)
+![AWS](https://img.shields.io)
+![Docker](https://img.shields.io)
+![MongoDB](https://img.shields.io)
+![Sqllite](https://img.shields.io)
 
 ---
 
-📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com) | [Email](mailto:shaheer14326@gmail.com)
+### 🚀 Key Impact & Expertise
+
+*   **Agentic AI & Voice:** Built production-grade **Voice Agents** using LangGraph and OpenAI Whisper, reducing manual SME intervention by 30%.
+*   **Predictive Analytics:** Engineered a **Churn Prediction System** for 100K+ customers with 90% accuracy, saving ~$400K monthly.
+*   **Data Engineering:** Expert in transforming massive **Telecom CDR files** into executive dashboards using Python, D3.js, and Chart.js.
+*   **Logistics Intelligence:** Developed recommendation engines using **Contrastive Learning** and Hopsworks Feature Stores for real-time optimization.
+*   **Medical AI:** Fine-tuned BioGPT and LLaMA-based pipelines for clinical audio transcription and diagnostic image analysis.
+
+---
+
+### 📊 Professional Journey
+- **Associate Data Scientist** @ [Brickclay](https://www.brickclay.com) (July 2025 - Present)
+- **Engineering Intern** @ [Zong CMPAK](https://www.zong.com.pk) (July 2024 - Sept 2024)
+- **Data Science Intern** @ BehinDev (Oct 2023 - May 2024)
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io)](https://linkedin.com)
+[![Email](https://img.shields.io)](mailto:shaheer14326@gmail.com)
 
