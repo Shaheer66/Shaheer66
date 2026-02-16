@@ -1,6 +1,6 @@
 # Hi, I'm Shaheer Ahmad 👋 
 
-**Associate Data Scientist @[Brickclay](https://www.brickclay.com) | FAST NUCES Alumnus**
+**Associate Data Scientist @[Brickclay](https://www.brickclay.com) | X-Zong | FAST NUCES Alumnus**
 
 I am an AI Engineer specializing in architecting end-to-end intelligent systems across Logistics, Healthcare, and Enterprise Data. My work involves building **Multimodal RAG pipelines**, **Autonomous Voice Agents**, and robust data engineering workflows.
 
