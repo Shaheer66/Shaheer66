@@ -30,7 +30,8 @@ I architect end-to-end intelligent systems, bridging the gap between raw data en
 ---
 
 ### 📊 Professional Journey
-- **Associate Data Scientist** @ [Brickclay](https://www.brickclay.com) (July 2025 - Present)
+- **AI Engineer Level II** @ [White Wings Consultancy](https://www.wwcny.com) (June 2026 - Present)
+- **Associate Data Scientist** @ [Brickclay](https://www.brickclay.com) (July 2025 - June 2026)
 - **Engineering Intern** @ [Zong CMPAK](https://www.zong.com.pk) (July 2024 - Sept 2024)
 - **Data Science Intern** @ BehinDev (Oct 2023 - May 2024)
 
