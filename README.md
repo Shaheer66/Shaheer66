@@ -1,6 +1,6 @@
 # Hi, I'm Shaheer Ahmad 👋 
 
-**Associate Data Scientist @Brickclay | FAST NUCES Alumnus**
+**AI Engineer Level II @WhiteWings | FAST NUCES Alumnus**
 
 I architect end-to-end intelligent systems, bridging the gap between raw data engineering and advanced Agentic AI. My focus is on **Multimodal RAG**, **Autonomous Voice Agents**, and **Predictive Modeling**.
 
